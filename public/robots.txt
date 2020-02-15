@@ -1,7 +1,7 @@
 User-agent: *
-Disallow: /subjects/http
-Disallow: /subjects/http:
-Disallow: /subjects/http:/
-Disallow: /subjects/https
-Disallow: /subjects/https:
-Disallow: /subjects/https:/
+Disallow: /subject/http
+Disallow: /subject/http:
+Disallow: /subject/http:/
+Disallow: /subject/https
+Disallow: /subject/https:
+Disallow: /subject/https:/
