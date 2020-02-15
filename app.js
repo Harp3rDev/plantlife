@@ -42,7 +42,7 @@ function googleAnalyticsMiddleware(data) {
 }
 
 var unblockerConfig = {
-    prefix: '/subjects/',
+    prefix: '/subject/',
     responseMiddleware: [
         googleAnalyticsMiddleware
     ]
