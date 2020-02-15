@@ -1,7 +1,7 @@
 User-agent: *
-Disallow: /textbooks/http
-Disallow: /textbooks/http:
-Disallow: /textbooks/http:/
-Disallow: /textbooks/https
-Disallow: /textbooks/https:
-Disallow: /textbooks/https:/
+Disallow: /subjects/http
+Disallow: /subjects/http:
+Disallow: /subjects/http:/
+Disallow: /subjects/https
+Disallow: /subjects/https:
+Disallow: /subjects/https:/
